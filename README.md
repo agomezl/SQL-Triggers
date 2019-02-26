@@ -5,3 +5,4 @@ Databases course
 
 * [Books](questions/Books.md)
 * [Votes](questions/Votes.md)
+* [Misc](questions/Misc.md)
